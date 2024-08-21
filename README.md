@@ -34,11 +34,9 @@ This C++ project implements a student management system using a JSON file to sto
    mkdir build
    cd build
 
-
 3. Run CMake to configure the project:
    ```bash
    cmake ..
-
 
 4. Build the project:
    ```bash
