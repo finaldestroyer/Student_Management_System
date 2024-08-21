@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "John Doe",
+        "id": 1,
+        "age": 20,
+        "assignments": {
+            "Math": 85.5,
+            "Science": 90.0
+        }
+    },
+    "2": {
+        "name": "Jane Smith",
+        "id": 2,
+        "age": 22,
+        "assignments": {
+            "History": 78.0,
+            "Math": 88.5
+        }
+    }
+}
