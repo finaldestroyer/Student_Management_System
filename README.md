@@ -43,6 +43,7 @@ This C++ project implements a student management system using a JSON file to sto
    cmake --build .
 
 ### Example
+   ```bash
    --- Student Management System ---
    1. Add a student
    2. Add or update an assignment
